@@ -23,3 +23,8 @@ I am a Bs Computer Science Student and Will be Graduating in June 2027, and I ha
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mudassirali001"><img src="https://github-readme-stats.vercel.app/api?username=Mudassirali001&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Mudassirali001's GitHub stats" /></a>
+
+
+
+
+![Mudassirali001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mudassirali001&theme=vue-dark&hide_border=true)
